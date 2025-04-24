@@ -143,4 +143,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [VerySerious Systems](https://github.com/veryseriousystems)
+Made with ❤️ by [veryserious.systems](veryserious.systems)
