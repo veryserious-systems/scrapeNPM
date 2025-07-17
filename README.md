@@ -124,15 +124,8 @@ This tool scrapes and stores installation scripts that may contain security-sens
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📄 Usage
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- NPM Registry for providing public access to package metadata
-- The Go community for exceptional libraries and tools
-
----
+Feel free to use this project in whatever way you like.
 
 Made with ❤️ by [veryserious.systems](veryserious.systems)
