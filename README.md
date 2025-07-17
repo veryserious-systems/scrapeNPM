@@ -1,11 +1,8 @@
 # scrapeNPM
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 A high-performance, multi-threaded NPM registry scraper and analyzer that replicates the NPM package registry into a PostgreSQL database with a focus on installation scripts.
 
-Developed by [VerySerious Systems](https://github.com/veryseriousystems)
+Developed by [VerySerious Systems](https://github.com/veryserious-systems)
 
 ## 📋 Overview
 
@@ -44,7 +41,7 @@ The system uses a durable job queue pattern, where jobs are stored in the databa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/veryseriousystems/scrapeNPM.git
+git clone https://github.com/veryserious-systems/scrapeNPM.git
 cd scrapeNPM
 ```
 
