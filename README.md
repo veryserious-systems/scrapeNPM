@@ -115,11 +115,6 @@ LIMIT 100;
 
 This tool scrapes and stores installation scripts that may contain security-sensitive commands. Always run in an isolated environment and be careful when examining script content.
 
-## 🧪 Testing
-
-```bash
-go test ./...
-```
 
 ## 🤝 Contributing
 
